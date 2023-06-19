@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bugatti Divo VR Ready
+* source:	https://sketchfab.com/3d-models/bugatti-divo-vr-ready-139c657dc8034af49fc49ca5591852d7
+* author:	zizian (https://sketchfab.com/zizian)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bugatti Divo VR Ready" (https://sketchfab.com/3d-models/bugatti-divo-vr-ready-139c657dc8034af49fc49ca5591852d7) by zizian (https://sketchfab.com/zizian) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
